@@ -1,3 +1,3 @@
 # HTTP-Redirects
 
-Redirect sites with HTTP only.
+Redirect sites with HTTP.
